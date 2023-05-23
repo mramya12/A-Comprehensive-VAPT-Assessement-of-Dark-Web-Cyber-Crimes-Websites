@@ -1,0 +1,1 @@
+This folder contains an excel sheet having the list of the dark websites URLs analyzed in this project.

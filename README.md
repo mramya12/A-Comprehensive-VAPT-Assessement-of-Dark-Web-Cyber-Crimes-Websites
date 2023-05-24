@@ -45,7 +45,7 @@ graph TD;
 
 ```
 
-First, the dark web cyber crimes websites are collected using manual scraping and Hunchly reports. Then, the web technologies used by the collected websites are fetched using the Wappalyzer tool. Observing the web technologies, vulnerabilities are found using the OWASP Penetration Testing Kit tool. For some of the vulnerabilities found, exploits are strategized and attacks are performed.
+First, the dark web cyber crimes websites are collected using manual scraping and Hunchly reports. Then, the web technologies used by the collected websites are fetched using the Wappalyzer tool. Observing the web technologies, vulnerabilities are found using the OWASP Penetration Testing Kit tool. For some of the vulnerabilities found, exploits are strategized and attacks are performed using the Burp Suite tool.
 
 Vulnerabilities found are:-
 
